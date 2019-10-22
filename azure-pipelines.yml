@@ -15,5 +15,5 @@ steps:
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
+    echo See https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops
   displayName: 'Run a multi-line script'
