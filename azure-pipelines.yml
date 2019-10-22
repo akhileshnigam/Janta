@@ -15,5 +15,5 @@ steps:
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
-    echo See https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops
+    echo See [![Build Status](https://dev.azure.com/akhilesh0274/New%20Test%20I2k2/_apis/build/status/akhileshnigam.Janta?branchName=master)](https://dev.azure.com/akhilesh0274/New%20Test%20I2k2/_build/latest?definitionId=1&branchName=master)
   displayName: 'Run a multi-line script'
